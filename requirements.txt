@@ -1,2 +1,6 @@
 numpy
 opencv-python
+pylibdmtx
+Pillow
+setuptools
+pyzbar

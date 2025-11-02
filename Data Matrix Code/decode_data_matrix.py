@@ -1,8 +1,3 @@
-"""
-Data Matrix Decoder - Complete Solution
-Works on Windows 11
-"""
-
 from pylibdmtx.pylibdmtx import decode
 from PIL import Image
 import cv2
@@ -95,7 +90,7 @@ def decode_datamatrix(image_path):
 
 if __name__ == "__main__":
     # Change this to your image path
-    image_file = "datamatrix.png"
+    image_file = "data_matrix_code.jpg"
     
     # Decode the Data Matrix
     results = decode_datamatrix(image_file)

@@ -1,0 +1,2 @@
+# AI without ML Part2 Work
+A robust collection of computer vision and "AI without ML" scripts for generating and decoding various 1D and 2D barcoding standards. This repository contains functional Python solutions for decoding: PDF417, Data Matrix, Barcodes (EAN/UPC), QR Codes, Aztec, and MaxiCode directly from image files. It leverages libraries like OpenCV, zbar, and external tools (like ZXing/Docker) to achieve reliable, non-machine-learning based code reading, fulfilling the requirements for the "AI without ML Part 2" assessment.
